@@ -1,6 +1,5 @@
-## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/waisaa/wlf-blog/master/feed.xml)
+## wlf-blog
+My personal blog using issues and GitHub Actions.
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
