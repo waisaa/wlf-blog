@@ -6,7 +6,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
  | ---- | ---- | ---- |
 ## 最近更新
 - [Python3根据RGB像素点生成图片](https://github.com/waisaa/wlf-blog/issues/1)--2022-07-29
-## PIL
-- [Python3根据RGB像素点生成图片](https://github.com/waisaa/wlf-blog/issues/1)--2022-07-29
 ## python
 - [Python3根据RGB像素点生成图片](https://github.com/waisaa/wlf-blog/issues/1)--2022-07-29
